@@ -2,7 +2,7 @@
 
 Hi, I'm Aiswarya OP.
 
-This repository contains my Data Analytics portfolio projects created using Excel, Power BI, Tableau, and Python.
+This repository contains my Data Analytics portfolio projects created using Excel, Power BI, Tableau.
 
 ## Projects
 
